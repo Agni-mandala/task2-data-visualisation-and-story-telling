@@ -53,7 +53,7 @@ The dashboard consists of the following visual elements:
 
 ##  Dashboard Screenshot
 
-![Superstore Sales Dashboard](./dashboard.jpg)
+![Superstore Sales Dashboard](./dashboard.jpeg)
 
 ---
 
